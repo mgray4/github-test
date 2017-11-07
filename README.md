@@ -1,4 +1,4 @@
-# github-test
+# Alternate Title
 a test repository
 # This is my Heading
 ## New publication
